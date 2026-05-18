@@ -25,8 +25,8 @@ Building my way into Software Engineering — one project at a time.
 | Project | Description | Tech |
 |---|---|---|
 | [Pathfinding Visualizer](#) | Visual BFS/DFS/Dijkstra on a grid | JS, HTML, CSS |
-| [CosmicZoom]([your-link](https://github.com/Stalin-alt/Cosmic_Zoom_Hackathon)) | Scalable universe visualization | Python |
-| [Urban Parking Optimizer]([your-link](https://github.com/Stalin-alt/Summer-Analytics-Capstone)) | ML-based parking demand forecasting | Python, Sklearn |
+| [CosmicZoom]([https://github.com/Stalin-alt/Cosmic_Zoom_Hackathon]) | Scalable universe visualization | Python |
+| [Urban Parking Optimizer]([https://github.com/Stalin-alt/Summer-Analytics-Capstone]) | ML-based parking demand forecasting | Python, Sklearn |
 
 ---
 
